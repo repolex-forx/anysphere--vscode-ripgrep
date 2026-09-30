@@ -27,6 +27,49 @@
       ],
       "ast": [
         "aggregate/ast/3d13812ea1d9d7a71100eaa03d2953232911997a/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/3d13812ea1d9d7a71100eaa03d2953232911997a.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "https-proxy-agent",
+          "ecosystem": "NPM",
+          "version": "7.0.2",
+          "githubOrg": "TooTallNate",
+          "githubRepo": "proxy-agents",
+          "githubUrl": "git+https://github.com/TooTallNate/proxy-agents.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "yauzl",
+          "ecosystem": "NPM",
+          "version": "2.9.2",
+          "githubOrg": "thejoshwolfe",
+          "githubRepo": "yauzl",
+          "githubCommit": "3e0fa59ab8a3e85149f6e9efae587580f4af1e2b",
+          "githubTag": "2.9.2",
+          "githubUrl": "git+https://github.com/thejoshwolfe/yauzl.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "proxy-from-env",
+          "ecosystem": "NPM",
+          "version": "1.1.0",
+          "githubOrg": "Rob--W",
+          "githubRepo": "proxy-from-env",
+          "githubCommit": "96d01f8fcfdccfb776735751132930bbf79c4a3a",
+          "githubTag": "v1.1.0",
+          "githubUrl": "git+https://github.com/Rob--W/proxy-from-env.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/node",
+          "ecosystem": "NPM",
+          "version": "20.8.4",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        }
       ]
     }
   ],
