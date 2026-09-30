@@ -1,0 +1,11 @@
+{
+  "org": "anysphere",
+  "repo": "vscode-ripgrep",
+  "versions": [
+    {
+      "commit": "3d13812ea1d9d7a71100eaa03d2953232911997a",
+      "tag": "main",
+      "parsed_at": "2026-09-30T19:09:17.600430+00:00"
+    }
+  ]
+}
