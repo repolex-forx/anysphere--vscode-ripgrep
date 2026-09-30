@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "anysphere",
+  "repo": "vscode-ripgrep",
+  "versions": [
+    {
+      "commit": "3d13812ea1d9d7a71100eaa03d2953232911997a",
+      "parsed_at": "2026-09-30T19:04:48.637525+00:00",
+      "tag": "main",
+      "filetree": "filetree/3d13812ea1d9d7a71100eaa03d2953232911997a.nq.gz",
+      "blobs": [
+        "blob/9585146eaec1fe3b7e639b1c1ed593af32f825df.nq.gz",
+        "blob/4bde4340215c99e57e95b9cc304b670f79d0ec9a.nq.gz",
+        "blob/4e5e1b5f4f518f10647adb23a82812bb376ccf6f.nq.gz",
+        "blob/2c1e7c0f3e8e232055fbe16d5bf82681b2c997a0.nq.gz",
+        "blob/cca8d9403a0a5e28e857a520134e077ad997f92a.nq.gz",
+        "blob/f89c1cc7e319cffda8ec22f2be1210c75ae9728a.nq.gz",
+        "blob/f009950bf7e068587eed5cf088d80dcdec58943d.nq.gz",
+        "blob/4e2bb26d00e1531cf21bea629d88fb752ce0e630.nq.gz",
+        "blob/e660fd93d3196215552065b1e63bf6a2f393ed86.nq.gz",
+        "blob/1f9d3d4421465c1719737a73696c38d943be9afe.nq.gz",
+        "blob/ad3c1561f7c3bc68a044192f2e34055b1b2c4904.nq.gz",
+        "blob/156033afb9d87f8f2f74022ad40e91b9e6d232f8.nq.gz",
+        "blob/aaeaffc8800924dc71c6c98e6a72e019b2630526.nq.gz",
+        "blob/79823e4dbf7fe10bfb3c3219882ef5e35dc030e5.nq.gz",
+        "blob/873f0cd0399c88407b481d14b832e9d527215206.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
