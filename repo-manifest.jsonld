@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/anysphere/vscode-ripgrep/commit/3d13812ea1d9d7a71100eaa03d2953232911997a",
       "git:hexsha": "3d13812ea1d9d7a71100eaa03d2953232911997a",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-09-30T19:09:17.599785+00:00"
     },
     {
       "@id": "https://repolex.ai/r/anysphere/vscode-ripgrep/commit/d230da93e03eff1e09f6c6fdfcd23354d194b951",

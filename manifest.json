@@ -70,7 +70,9 @@
           "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
           "source": "build_file:package.json"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/3d13812ea1d9d7a71100eaa03d2953232911997a/chunk-001.nq.gz",
+      "dep": "dep/3d13812ea1d9d7a71100eaa03d2953232911997a.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
