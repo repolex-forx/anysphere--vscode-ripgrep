@@ -3,6 +3,11 @@
   "repo": "vscode-ripgrep",
   "versions": [
     {
+      "commit": "0ad56375c60fc4fea14e920a1059c1479045da75",
+      "tag": "v1.15.14",
+      "parsed_at": "2026-10-01T07:27:02.393066+00:00"
+    },
+    {
       "commit": "3d13812ea1d9d7a71100eaa03d2953232911997a",
       "tag": "main",
       "parsed_at": "2026-09-30T19:09:17.600430+00:00"
