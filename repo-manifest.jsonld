@@ -117,7 +117,7 @@
     {
       "@id": "https://repolex.ai/r/anysphere/vscode-ripgrep/commit/0ad56375c60fc4fea14e920a1059c1479045da75",
       "git:hexsha": "0ad56375c60fc4fea14e920a1059c1479045da75",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.15.14"
     },
     {
